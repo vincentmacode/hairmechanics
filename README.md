@@ -1,6 +1,6 @@
 This is a professional, fan‑made website created for my favourite hair salon in Scarborough.
 
-The website is purely experimental and made for educatinal purposes only.
+The website is purely experimental and made for educational purposes only.
 
 Although it is publicly hosted, no profit is being made from it.
 
